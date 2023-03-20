@@ -2,12 +2,9 @@
   "name": "Karolus TKL",
   "vendorId": "0x4447",
   "productId": "0x0001",
-  "keycodes": ["none"],
-  "menus": ["none"],
   "matrix": {"rows": 12, "cols": 9},
   "layouts": {
     "labels": [
-
       [
         "Bottom row",
         "WK",
